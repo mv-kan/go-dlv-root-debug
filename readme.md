@@ -2,6 +2,11 @@
 
 This repo shows how you can debug files in root mode
 
+## Prerequisites
+
+I have tested this guide on Ubuntu 22 04. 
+1. Installed go, I recommend to install go using this guide https://go.dev/doc/install
+
 ## Settings up $PATH and installing delve for root user 
 
 First thing first you need `go` and `dlv` commands available for your root user. You can do it like this
